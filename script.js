@@ -79,7 +79,6 @@ const conflict = [
   "Long Distance Relationship",
   "กำแพงภาษา",
   "ความเห็นไม่ตรงกัน",
-  "Slow Burn",
   "ฐานะต่างกัน",
   "มีตัวอิจฉา",
   "รักสามเส้า",
@@ -114,3 +113,4 @@ function generateAU() {
 document
   .getElementById("generateBtn")
   .addEventListener("click", generateAU);
+
